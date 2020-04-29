@@ -8,4 +8,7 @@
     <string name="send">Send</string>
     <string name="tech_pro">Tech Pro</string>
     <string name="admin_mail_com">admin@mail.com</string>
+
+    <string name="drawer_open">drawer_open</string>
+    <string name="drawer_close">drawer_close</string>
 </resources>
